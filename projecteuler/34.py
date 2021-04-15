@@ -1,2 +1,2 @@
 num = 145
-factorial = 1
+factorial = 1	
